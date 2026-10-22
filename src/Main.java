@@ -18,6 +18,7 @@ public class Main {
             System.out.println("n을 입력하시오");
             int n = scanner.nextInt();
             if(n == 0){
+                System.out.println("종료합니다");
                 break;
             }
         }
