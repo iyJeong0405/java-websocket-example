@@ -24,7 +24,7 @@ Spring Framework와 Maven/Gradle을 사용하지 않고 Java 및 외부 JAR 라�
 ## 2. 프로젝트 구조
 
 ```text
-my-dull-project/
+java-websocket-example/
 ├── lib/                  # 외부 JAR 라이브러리
 └── src/
     ├── Main.java         # 서버/클라이언트 실행 분기
